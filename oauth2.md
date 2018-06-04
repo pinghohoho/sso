@@ -20,3 +20,4 @@ HttpContext.Current.Response.Cookies["OnePoint"]["Access_Token"] = accessToken
 
 ### Implicit Flow (SPA)
 - save token in localstorage
+sso/2018-06-04_16-49-05.png
