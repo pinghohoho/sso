@@ -15,7 +15,12 @@ public clients
 - machine to machine
 - response_type = code
 
+### Hybrid Cliet Credential Flow (WebFrom)
+- machine to machine
+- response_type = code id_token token
+
 ### Implicit Flow (SPA)
+- response_type = id_token token
 - save token in localstorage [pic1]
 ![pic1](https://github.com/pinghohoho/sso/raw/master/2018-06-04_16-49-05.png)
 
