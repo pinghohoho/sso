@@ -13,7 +13,7 @@ public clients
 
 ### Cliet Credential Flow (Web API)
 - machine to machine
-- save token in cookie
+- response_type = code
 ```c#
 HttpContext.Current.Response.Cookies["OnePoint"]["Access_Token"] = accessToken
 ```
