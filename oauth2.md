@@ -7,6 +7,7 @@ OAuth is about authorization (what I can do)
 confidential clients
 - Web API
 - ASP.NET WebForm
+- MVC
 
 public clients
 - mobile phone applications
