@@ -14,9 +14,6 @@ public clients
 ### Cliet Credential Flow (Web API)
 - machine to machine
 - response_type = code
-```c#
-HttpContext.Current.Response.Cookies["OnePoint"]["Access_Token"] = accessToken
-```
 
 ### Implicit Flow (SPA)
 - save token in localstorage [pic1]
